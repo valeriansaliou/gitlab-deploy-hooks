@@ -2,6 +2,7 @@
   "name": "gitlab-deploy-hooks",
   "description": "Server deploy hooks for GitLab.",
   "version": "1.0.0",
+  "license": "MPL-2.0",
 
   "repository": {
     "type": "git",
