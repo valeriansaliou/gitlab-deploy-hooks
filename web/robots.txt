@@ -1,0 +1,3 @@
+# gitlab-deploy-hooks
+User-agent: *
+Disallow: /
